@@ -1,0 +1,21 @@
+
+body {
+    font-family:Arial;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(181, 176, 175)
+  }
+
+  p {
+    color: red;
+    font-size: 21px;
+}
+#main-title {
+    font-size: 32px;
+    color: rgb(4, 4, 165);
+  }
+
+h2 {
+    font-size: 27px;
+    color: rgb(224, 147, 4)
+}
